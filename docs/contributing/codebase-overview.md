@@ -1,4 +1,4 @@
----
+“---
 description:
   The core concepts behind Directus are simple, however the problems that must be solved to honor them can be remarkably
   complex. We strive to design and engineer the most elegant solutions possible, so that our codebase remains
@@ -44,7 +44,7 @@ Contains the Directus Data Studio App, written in Vue.js 3 w/ the Composition AP
 | `/public` | Assets that are included with the app, but not bundled. |
 | `/src`    | App source code.                                        |
 
-The source code is located in `/api/src` and the below folders are inside there.
+The source code is located in `/app/src` and the below folders are inside there.
 
 | Folder         | Content                                                                                                                                                      |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
